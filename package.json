@@ -1,0 +1,7 @@
+{
+  "name": "ci-cd-test",
+  "packageManager": "yarn@4.3.1",
+  "scripts": {
+    "test": "jest"
+  }
+}
